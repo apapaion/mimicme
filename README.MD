@@ -13,6 +13,7 @@ Recently, Deep Neural Networks (DNNs) have been shown to outperform traditional 
 MimicMe will be made publicly available and we envision that it will be extremely valuable to researchers working in many problems of face modelling and analysis, including 3D/4D face and facial expression recognition. We conduct several experiments and demonstrate the usefulness of the database for various applications.
 
 <p align="center"><img width="100%" src="imgs/expressions.jpg" /></p>
+
 ## Public release of MimicMe dataset
 The MiMicME database can  be obtained and used by researchers who wish to perform non-comercial research. The database includes the meshes of approximately  $4,700$ subjects performing various expressions and registered to a common template, metadata about their age, gender and ethnicity, and textures for the registered meshes. 
 
