@@ -3,8 +3,8 @@ Athanasios Papaioannou<sup>* </sup>, Baris Gecer<sup>* </sup>, Shiyang Cheng<sup
 <br/>
 <sup>1 </sup>Imperial College London, UK <br/>
 <sup>2 </sup> University of Exeter, UK <br/>
-<sup> 3 </sup> Institute of Computer Science, Foundation for Research and Technology Hellas
-<sup> * </sup> <br/>
+<sup> 3 </sup> Institute of Computer Science, Foundation for Research and Technology Hellas<br/>
+<sup> * </sup>
 Authors were with Imperial College London during this work.
  <br/>
 ## Abstract
