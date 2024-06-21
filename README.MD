@@ -23,6 +23,9 @@ The MiMicME has been freely available for research and education purposes. To ob
 2. You agree not copy, sell, trade, or exploit the dataset for any commercial purposes.
 3. In any published research using the models, you cite the following paper:
 
+## News
+* 2024.06.21: We have upload the [User Agreement Form] (https://github.com/apapaion/mimicme/blob/main/End%20User%20License%20Agreement.docx).  
+
 ## Citation
 If you find this work is useful for your research, please cite our paper
 ```
